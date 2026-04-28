@@ -7,7 +7,7 @@ via USB-C.
 ## Features
 - TI MSPM0 microcontroller
 - USB-C connector with CH340 USB-to-UART bridge for serial communication
-- Manually routed USB differential pair with 90Ω impedance matching
+- Manually routed USB differential pair with impedance matching
 - Crystal oscillator with datasheet-compliant layout guidelines
 - I2C header for connecting external sensors and peripherals
 - Hardware reset circuit via NRST line
